@@ -1,0 +1,17 @@
+#BlueJ class context
+comment0.target=TiendaDeJuegos
+comment1.params=nombreDelJuego\ precioDelJuego\ descuentoDePrecio
+comment1.target=TiendaDeJuegos(java.lang.String,\ double,\ boolean)
+comment2.params=
+comment2.target=java.lang.String\ getNombreDelJuego()
+comment3.params=
+comment3.target=double\ getPrecioDelJuego()
+comment4.params=
+comment4.target=boolean\ getDescuentoDePrecio()
+comment5.params=nombre
+comment5.target=void\ setNombre(java.lang.String)
+comment6.params=
+comment6.target=void\ descuentoDisponible()
+comment7.params=
+comment7.target=void\ mostrarDetalles()
+numComments=8
